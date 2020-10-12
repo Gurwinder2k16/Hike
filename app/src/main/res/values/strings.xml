@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Headlines</string>
+    <string name="headlines">Headlines</string>
+    <string name="new_not_availbale">New not available.</string>
+    <string name="format_url">http://farm%d.static.flickr.com/%s/%s_%s.jpg</string>
+    <string name="search">Search</string>
+</resources>
+
